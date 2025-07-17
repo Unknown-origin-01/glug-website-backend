@@ -13,8 +13,8 @@ mongoose
     .then(() => console.log("MongoDB Connected"))
     .catch((err)=>{console.log(err)})
 
-// app.use("/api/user", userRoutes)
-// app.use("/api/admin", adminRoutes)
+app.use("/api/user", userRoutes)
+app.use("/api/admin", adminRoutes)
 
 app.listen(process.env.PORT, ()=>{
     console.log(`Server started at PORT: ${process.env.PORT}`)
