@@ -1,0 +1,216 @@
+[
+  {
+    "name": "Abhilash Kashyap",
+    "email": "abhilash.kashyap@example.com",
+    "role": "PRESIDENT",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "President of the club"
+  },
+  
+  {
+    "name": "Ashish Saikia",
+    "email": "ashish.saikia@example.com",
+    "role": "CO-HEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Club co-leadership"
+  },
+  {
+    "name": "Dorothy Gogoi",
+    "email": "dorothy.gogoi@example.com",
+    "role": "CO-HEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Club co-leadership"
+  },
+  {
+    "name": "Ritu Raj Bora",
+    "email": "rituraj.bora@example.com",
+    "role": "CO-HEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Club co-leadership"
+  },
+  {
+    "name": "Ishan Bharadwaj",
+    "email": "ishan.bharadwaj@example.com",
+    "role": "CO-HEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Club co-leadership"
+  },
+  
+  {
+    "name": "Abhimanyu Saikia",
+    "email": "abhimanyu.saikia@example.com",
+    "role": "TECH LEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Full-stack developer and technical mentor"
+  },
+  {
+    "name": "Sivanuj Dutta",
+    "email": "sivanuj.dutta@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Technical coordination"
+  },
+  {
+    "name": "Rittam Dutta",
+    "email": "rittam.dutta@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Technical coordination"
+  },
+  {
+    "name": "Kaushik Ranjan Rajkumar",
+    "email": "kaushik.rajkumar@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Technical coordination"
+  },
+  
+  {
+    "name": "Ritu Raj Bora",
+    "email": "rituraj.bora.design@example.com",
+    "role": "LEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Design team leadership"
+  },
+  {
+    "name": "Arnold Saikia",
+    "email": "arnold.saikia@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Design coordination"
+  },
+  {
+    "name": "Ayushman Lahon",
+    "email": "ayushman.lahon@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Design coordination"
+  },
+  {
+    "name": "Nibir Kalita",
+    "email": "nibir.kalita@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Design coordination"
+  },
+  
+  {
+    "name": "Bishal Ranjan Nath",
+    "email": "bishal.nath@example.com",
+    "role": "LEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Management team leadership"
+  },
+  {
+    "name": "Priyam Nath",
+    "email": "priyam.nath@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Management coordination"
+  },
+  {
+    "name": "Arindom Mahanta",
+    "email": "arindom.mahanta@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Management coordination"
+  },
+  {
+    "name": "Ananya Das",
+    "email": "ananya.das@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Management coordination"
+  },
+  {
+    "name": "Sumanta Bhargab",
+    "email": "sumanta.bhargab@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Management coordination"
+  },
+  
+  {
+    "name": "Tushar Haloi",
+    "email": "tushar.haloi@example.com",
+    "role": "LEAD",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Social media strategy and leadership"
+  },
+  {
+    "name": "Koustab Saikia",
+    "email": "koustab.saikia@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Content creation and management"
+  },
+  {
+    "name": "Bivamoni Amchi",
+    "email": "bivamoni.amchi@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Content creation and management"
+  },
+  {
+    "name": "Jyotismita Bhuyan",
+    "email": "jyotismita.bhuyan@example.com",
+    "role": "COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "Content creation and management"
+  },
+  
+  {
+    "name": "Rajdeep Dutta",
+    "email": "rajdeep.dutta@example.com",
+    "role": "GENERAL COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "General club coordination"
+  },
+  {
+    "name": "Dreamsea Dutta",
+    "email": "dreamsea.dutta@example.com",
+    "role": "GENERAL COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "General club coordination"
+  },
+  {
+    "name": "Mriganka Mahanta",
+    "email": "mriganka.mahanta@example.com",
+    "role": "GENERAL COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "General club coordination"
+  },
+  {
+    "name": "Pranjal Nath",
+    "email": "pranjal.nath@example.com",
+    "role": "GENERAL COORDINATOR",
+    "password": "password123",
+    "passwordConfirm": "password123",
+    "descripition": "General club coordination"
+  }
+]
